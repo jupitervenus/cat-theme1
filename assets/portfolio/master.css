@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Josefin+Slab&family=Kings&family=Vidaloka&family=Yanone+Kaffeesatz&display=swap');
+
+*  {
+  color:white;
+}
+
+body {
+  background-color: black;
+  font-family:'Poiret One', cursive;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+nav {
+  padding-top:10px;
+}
+
+.navbar_container {
+  display:flex;
+  justify-content:center;
+  margin:auto;
+}
+
+.navbar a {
+  text-decoration:none;
+  color:white;
+}
+
+.navbar {
+  margin:0px;
+  padding-left:0;
+}
+
+.navbar li:hover {
+  color:white;
+}
+
+.navbar li {
+  display:inline-block;
+  justify-content: center;
+  padding: 20px;
+  color:white;
+  font-size:30px;
+  margin-left:20px;
+
+}
+
+.cat_pic {
+  display:block;
+  height:40%;
+  width:20%;
+  margin-left:100px;
+}
+
+.cat_facts {
+  display:block;
+  font-size:20px;
+}
+
+.questions {
+  font-size: 20px;
+}
+
+.facts_header {
+  text-decoration:underline;
+  margin-left:80px;
+}
+
+.leading {
+  margin:auto;
+  width:90%;
+}
+
+.typography_header {
+  padding:10px;
+  font-size:30pt;
+  text-align:center;
+}
+
+.portfolio_images {
+  width:30%;
+}
+
+p {
+  margin-left:80px;
+  font-size:20px;
+}
+
+.about_wrapper {
+  display:flex;
+
+}
+
+.article_content {
+  width:0%;
+  margin-left:0%;
+}
+
+.section_header {
+  padding:10px;
+  font-size:30pt;
+  text-align:center;
+}
+
+.about{
+  text-decoration-color:underline;
+}
+
+.submit_button {
+  background-color:black;
+  text-decoration:white;
+  padding:10px;
+  font-size:18px;
+  margin:10px 20px;
+}
+
+.email {
+  margin:auto;
+  text-align: center;
+}
+
+h2 {
+  /* margin-left:285px; */
+}
+
+form{
+  color:white;
+  margin:auto;
+  width:70%;
+  text-align: center
+}
+
+footer {
+  margin:20px;
+  margin-top:200px;
+}
+
+.gallery_grid {
+  width:90%;
+  margin:auto;
+}
+
+.video {
+  width:100%;
+}
+
+
+#logo {
+  padding:60px;
+  display:block;
+  margin:auto;
+}
+
+#portfolio_images {
+  width:30%;
+}
+
+#triangle {
+  width:100%;
+  max-width:600px;
+  display:block;
+  margin:0px auto;
+  position:absolute;
+  bottom:0;
+  left:0;
+  right:0;
+}
+
+#tagline {
+  text-align:center;
+  font-size:25px;
+  color:white;
+  text-decoration:underline;
+  margin:20px 10px:
+}
+
+#footer_ck {
+}
